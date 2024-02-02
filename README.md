@@ -1,6 +1,6 @@
 ### Hi there, I'm Imene Ouahrani 👋 !
 
-I'm a FullStack Developper JAVA | Angular </br>
+I'm a FullStack Developper JAVA Spring | Angular </br>
 - 💕 I am currently Software Engineer at @Capgeminy technology services </br>
 - 😍 Passionate about web development. </br>
 - 📫 How to reach me: imeneouahrani@outlook.fr
